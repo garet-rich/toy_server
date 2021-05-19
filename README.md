@@ -1,2 +1,2 @@
 # toy_server
-This is a toy server using TCPServer
+This is collection of different toy servers and APIs using TCPServer and Faraday
